@@ -1,3 +1,4 @@
 # TheGyphtToken
-ERC-20 Token Optimizing The Engagement Protocol of Contractual Interaction Implementation Process. 
-I'm bullish... inside of a china shop.
+(ERC-20 Token) 
+Mission:  To help others love better
+
